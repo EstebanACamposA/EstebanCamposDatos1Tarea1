@@ -1,0 +1,57 @@
+C:\Users\esteb\app\bin\Debug\net8.0\app.exe
+C:\Users\esteb\app\bin\Debug\net8.0\app.deps.json
+C:\Users\esteb\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\esteb\app\bin\Debug\net8.0\app.dll
+C:\Users\esteb\app\bin\Debug\net8.0\app.pdb
+C:\Users\esteb\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\esteb\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\esteb\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\esteb\app\obj\Debug\net8.0\app.dll
+C:\Users\esteb\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\esteb\app\obj\Debug\net8.0\app.pdb
+C:\Users\esteb\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\esteb\app\obj\Debug\net8.0\ref\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\bin\Debug\net8.0\app.exe
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\bin\Debug\net8.0\app.deps.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\bin\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\bin\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\refint\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\app\obj\Debug\net8.0\ref\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\bin\Debug\net8.0\app.exe
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\bin\Debug\net8.0\app.deps.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\bin\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\bin\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\refint\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\EstebanCampos_Tarea1_Datos1\obj\Debug\net8.0\ref\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\bin\Debug\net8.0\app.exe
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\bin\Debug\net8.0\app.deps.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\bin\Debug\net8.0\app.runtimeconfig.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\bin\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\bin\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.sourcelink.json
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\refint\app.dll
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.pdb
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\app.genruntimeconfig.cache
+C:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\Tareas DatosI\EstebanCamposDatos1Tarea1\POO_mensajeria\obj\Debug\net8.0\ref\app.dll
